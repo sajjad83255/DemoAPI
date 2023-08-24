@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "iphone",
+        "price" : 89999,
+        "featured" : false,
+        "company" : "Apple",
+        "rating" : 4.9,
+        "createdAt" : 2002
+    },
+    {
+        "name" : "iphone 10R",
+        "price" : 109999,
+        "featured" : false,
+        "company" : "Apple"
+    },
+    {
+        "name" : "iwatch",
+        "price" : 9999,
+        "featured" : false,
+        "company" : "Apple",
+        "createdAt" : 2022
+    },
+    {
+        "name" : "Galaxy S20",
+        "price" : 35999,
+        "featured" : false,
+        "company" : "Samsung",
+        "rating" : 4.9
+    },
+    {
+        "name" : "watch 10",
+        "price" : 19999,
+        "featured" : false,
+        "company" : "Apple"
+    },
+    {
+        "name" : "S15",
+        "price" : "24999",
+        "featured" : false,
+        "company" : "Dell"
+    }
+]
