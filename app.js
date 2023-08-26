@@ -9,7 +9,7 @@ const app = express();
 // get connectDB
 const connectDB = require('./db/connect');
 
-const PORT = process.env.PORT  || 5000;
+const PORT = process.env.PORT;
 
 const product_routes = require('./routes/product');
 
