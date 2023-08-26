@@ -13,8 +13,12 @@ const PORT = process.env.PORT;
 
 const product_routes = require('./routes/product');
 
+// app.get("/", (req, res) =>{
+//     res.send("Hey, I am connected")
+// });
+
 app.get("/", (req, res) =>{
-    res.send("Hey, I am connected")
+    res.redirect("/api/products")
 });
 
 app.use("/api/products" , product_routes);

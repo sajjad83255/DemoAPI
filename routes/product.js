@@ -7,10 +7,9 @@ const express = require('express');
 const router = express.Router();
 
 // importing our function
-const {getAllProducts, getAllProductsTesting} = require('../controllers/product');
+const {getAllProducts} = require('../controllers/product');
 
 // defining our routes
 router.route("/").get(getAllProducts);
-router.route("/testing").get(getAllProductsTesting);
 
 module.exports = router;
