@@ -1,10 +1,13 @@
 require('dotenv').config();
 // to access express module
 const express = require("express");
+const cors = require("cors");
 
 // express function
 // to create application in express we need to call express function
 const app = express();
+app.use(cors());
+//app.use(cors("http://localhost:5000"));
 
 // get connectDB
 const connectDB = require('./db/connect');
