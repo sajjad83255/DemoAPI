@@ -16,6 +16,8 @@ const PORT = process.env.PORT;
 
 const product_routes = require('./routes/product');
 
+const detailedProductRoute = require('./routes/detailedProduct');
+
 // app.get("/", (req, res) =>{
 //     res.send("Hey, I am connected")
 // });
@@ -24,7 +26,14 @@ app.get("/", (req, res) =>{
     res.redirect("/api/products")
 });
 
+
+// app.get("/detailedProduct", (req, res) =>{
+//     res.redirect("/api/detailedProduct")
+// });
+
 app.use("/api/products" , product_routes);
+
+app.use("/api/products", detailedProductRoute);
 
 // here we are defining our start function
 const start = async() => {
