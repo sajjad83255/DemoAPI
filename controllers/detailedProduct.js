@@ -10,7 +10,7 @@ const getDetailedProduct = async(req, res) =>{
             return res.status(404).json({ message: 'Detailed product not found' });
         }
 
-        res.status(200).json({ detailedProduct });
+        res.status(200).json( detailedProduct );
         // console.log({detailedProduct});
         
     } catch (error) {
