@@ -1,15 +1,15 @@
 [
     {
         "id": "trendsettersserialnod",
-        "name": "samsung s20",
-        "company": "samsung",
-        "price": 500000,
+        "name": "formal shirt",
+        "company": "van heusen",
+        "price": 150000,
         "colors": [
-            "#000",
-            "#22D3EF"
+            "#FBFCFC",
+            "#1C2833"
         ],
-        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "mobile",
+        "description": "Van Heusen White Beauty Cotton Full Sleeve Solid Slim Fit Trending White Formal Shirt for Men Pack of 1.",
+        "category": "shirt",
         "shipping": true,
         "stock": 10,
         "reviews": 28,
@@ -19,7 +19,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/portrait-handsome-smiling-hipster-businessman-model-wearing-casual-summer-white-shirt_158538-1003.jpg?w=826&t=st=1696259744~exp=1696260344~hmac=d56e60f9e43d6c812dc0d1f106af65e4e762ad62ca51f9db63f09e468cfa9749",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -28,7 +28,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/style-fashion-mens-wear-concept-handsome-positive-young-businessman-posing-isolated-with-hand-pocket-stylish-black-jeans-looking-back-having-cheerful-facial-expression_343059-4598.jpg?w=900&t=st=1696259963~exp=1696260563~hmac=166a37bb486b7ce104a7c9c35ec2be00ded7a9cb856cf10f9847112ffb693239",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -37,7 +37,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/portrait-cheerful-young-man-white-shirt_171337-17464.jpg?w=900&t=st=1696259887~exp=1696260487~hmac=3a99e6e18c324586c39c2ae6a3fff56a9c499a9c525b1117d0d2c655220dc888",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -46,7 +46,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/business-casual-shirt-white-closeup-outdoor-photoshoot_53876-119744.jpg?w=740&t=st=1696260079~exp=1696260679~hmac=9fb787e95dfbee23905f7afd9c5de1266d98dd0ba84aeafc44f38c3a8fcbfb3f",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -55,15 +55,15 @@
     },
     {
         "id": "trendsettersserialnob",
-        "name": "samsung s20",
-        "company": "samsung",
-        "price": 500000,
+        "name": "oversized round neck",
+        "company": "UCB",
+        "price": 250000,
         "colors": [
-            "#000",
-            "#22D3EF"
+            "#438D69",
+            "#F4D03F"
         ],
-        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "mobile",
+        "description": "United Colors of Benitton, Men's Mud Green Oversized Half Sleeve Crew Neck Cotton T-Shirt.",
+        "category": "t-shirt",
         "shipping": true,
         "stock": 10,
         "reviews": 28,
@@ -73,7 +73,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/portrait-handsome-confident-stylish-hipster-lambersexual-modelman-dressed-size-tshirt-jeans-fashion-male-isolated-studio-posing-near-blue-wall_158538-26344.jpg?w=900&t=st=1696258873~exp=1696259473~hmac=a9f315db16d51d747c189710f1e1dc6b1a1bc5e48af342bd09ca7f1edfa7be6b",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -82,7 +82,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/portrait-handsome-confident-stylish-hipster-lambersexual-modelman-dressed-size-tshirt-jeans-fashion-male-isolated-studio-posing-near-blue-wall_158538-26348.jpg?w=900&t=st=1696259069~exp=1696259669~hmac=50ab43f9db58dd852caaa37e39a2cfa7bd128a3d50e707f9b48500bb3ca6d6e8",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -91,7 +91,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/premium-photo/portrait-handsome-confident-stylish-hipster-lambersexual-modelman-dressed-size-tshirt-jeans-fashion-male-isolated-studio-posing-near-blue-wall_158538-26347.jpg",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -100,7 +100,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/portrait-handsome-confident-stylish-hipster-lambersexual-modelman-dressed-size-tshirt-jeans-fashion-male-isolated-studio-posing-near-white-wall_158538-26380.jpg?t=st=1696259096~exp=1696259696~hmac=f624b743005aafc495745ec4a50bdb5f94ba30523c645411530e4b63ebd3148f",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -109,16 +109,15 @@
     },
     {
         "id": "trendsettersserialnoa",
-        "name": "iphone x",
-        "company": "apple",
-        "price": 600000,
+        "name": "polo t-shirt",
+        "company": "lacoste",
+        "price": 120000,
         "colors": [
-            "#ff0000",
-            "#000000",
-            "#CDD0D0"
+            "#27AE60",
+            "#F4D03F"
         ],
-        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "mobile",
+        "description": "Lacoste Regular Fit Solid Round Neck T-Shirt for Men | Polyester Fabric | Regular Fit | Causal Wear Tshirts Men.",
+        "category": "t-shirt",
         "featured": true,
         "stock": 5,
         "reviews": 58,
@@ -128,7 +127,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/front-view-male-courier-green-uniform-cape-holding-delivery-coffee-cup-pink-background-uniform-delivery-service-job-worker-work-male-company_140725-39224.jpg?w=900&t=st=1696258510~exp=1696259110~hmac=1552e43c38b0a63296433d487092df06040bb7790857fecd29376773e0a541b5",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -137,7 +136,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/front-view-male-courier-green-uniform-cape-holding-delivery-coffee-cup-with-card-pink-background-uniform-delivery-service-company-job_140725-39234.jpg?t=st=1696258510~exp=1696259110~hmac=30d7069e6c9d24e6a48a9635b7d4b7a1236821c3c3a03d624b97aa8403badf1b",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -146,7 +145,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/front-view-male-courier-green-uniform-cape-holding-coffee-cups-pink-background-uniform-delivery-service-worker-job_140725-39144.jpg",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -155,7 +154,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/front-view-male-courier-green-uniform-cape-holding-delivery-coffee-cup-pink-background-uniform-delivery-service-job-worker-work-company_140725-39223.jpg?w=900&t=st=1696258959~exp=1696259559~hmac=649bb169e3c6d84a9df85d84127bcbfc0c407b87234c7d12f963806158c4ef7e",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -164,15 +163,16 @@
     },
     {
         "id": "trendsettersserialnoc",
-        "name": "Dell Series",
-        "company": "dell",
-        "price": 702899,
+        "name": "oversized round neck",
+        "company": "UCB",
+        "price": 300000,
         "colors": [
-            "#22D3EF",
-            "#CDD0D0"
+            "#F1948A",
+            "#F4D03F",
+            "#DC7633"
         ],
-        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "laptop",
+        "description": "United Colors of Benitton |Nude Pink Color Round Neck Mens and Boys T-Shirt|Solid Half Sleeve|100% Cotton Oversized T-Shirts.",
+        "category": "t-shirt",
         "stock": 12,
         "reviews": 28,
         "stars": 4.2,
@@ -181,7 +181,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/young-handsome-bearded-man-with-phone_1303-9970.jpg?w=900&t=st=1696260461~exp=1696261061~hmac=d6973dc69dee14bb03df81a8949da6e74cabd5e0aac54a7834c24ba4dcbe707f",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -190,7 +190,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/young-handsome-bearded-man_1303-9973.jpg?t=st=1696260461~exp=1696261061~hmac=73744ef8a2c155ec56cfab5a9b4d644673edec081cbea10b2a116677b3587f28",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -199,7 +199,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/young-handsome-bearded-man_1303-9969.jpg?w=900&t=st=1696260392~exp=1696260992~hmac=964b791419715c6763c468ab063264392c6a194444ba84c92cc7f11726f87d2d",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -208,7 +208,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/young-handsome-bearded-man-with-phone_1303-9980.jpg?w=900&t=st=1696260692~exp=1696261292~hmac=dd9640e482a72948dc9128c042bc6a7d9b24d6893a65109458bc083bbed52eb9",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -217,15 +217,15 @@
     },
     {
         "id": "trendsettersserialnoe",
-        "name": "Mac Pc",
-        "company": "apple",
-        "price": 200999,
+        "name": "flannel shirt",
+        "company": "alimens & gentle",
+        "price": 189900,
         "colors": [
-            "#000",
-            "#CDD0D0"
+            "#A93226",
+            "#2471A3"
         ],
-        "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "computer",
+        "description": "Alimens & Gentle, Men's Button Down Regular Fit Long Sleeve Plaid Flannel Casual Shirts.",
+        "category": "shirt",
         "shipping": true,
         "stock": 4,
         "reviews": 28,
@@ -235,7 +235,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4916.jpg?w=826&t=st=1696259385~exp=1696259985~hmac=f0dd589dd191be11126740364831fa21f76656eff861b8cdcc2ae88254a4fa1d",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -244,7 +244,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4919.jpg?w=826&t=st=1696259419~exp=1696260019~hmac=40483a198dfa63aac79eb5b60836b266baea31703d8f5e6c9ff2d37ff3877bc6",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -253,7 +253,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4909.jpg?w=826&t=st=1696259353~exp=1696259953~hmac=d90df7e83aeb856b84d9f73abc990c3fd9fa8e91e9b9cb34a956f29569bfee2a",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -262,7 +262,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4911.jpg?w=826&t=st=1696259479~exp=1696260079~hmac=437c030ce0df800ba87470432a77cf2acc2abc3a7698f9c0adb53f0bcb4f187a",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -271,15 +271,15 @@
     },
     {
         "id": "trendsettersserialnof",
-        "name": "Macbook Pro",
-        "company": "apple",
-        "price": 699999,
+        "name": "printed shirt",
+        "company": "cavallo",
+        "price": 250000,
         "colors": [
-            "#000000",
-            "#CDD0D0"
+            "#2471A3",
+            "#1C2833"
         ],
-        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "laptop",
+        "description": "Cavallo by Linen Club Men's Cotton Linen Turquoise Blue Printed Slim Fit Full Sleeve Formal Shirt.",
+        "category": "shirt",
         "shipping": true,
         "stock": 6,
         "reviews": 12,
@@ -289,7 +289,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/young-entrepreneur-wearing-shirt-trousers_651396-3032.jpg?w=360&t=st=1696260886~exp=1696261486~hmac=19d68971293e169dbeaff4e2c23e69f94cef0bd72741d3fdee31108af541c3c1",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -298,7 +298,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/bearded-man-surfing-internet-smartphone-while-resting-cafe-daytime_651396-3599.jpg?w=360&t=st=1696260964~exp=1696261564~hmac=82105a02b2618640823cf64db581bfb645c8e359bea4f186a8ffa95909b8d4f6",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -307,7 +307,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/premium-photo/modern-businessman-making-notes-day-planner-while-having-rest-cozy-cafe_651396-3602.jpg",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -316,7 +316,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/young-brunette-businessman-working-with-documents-coffee-shop_651396-3601.jpg?t=st=1696261025~exp=1696261625~hmac=de06f38310b03e9b8c51d469ec641069eda4b3b1a0c3f7a00a9cca71a89d3958",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -325,15 +325,15 @@
     },
     {
         "id": "trendsettersserialnog",
-        "name": "Asus gseries",
-        "company": "asus",
-        "price": 509999,
+        "name": "3 piece suit",
+        "company": "park avenue",
+        "price": 999900,
         "colors": [
-            "#CDD0D0",
-            "#000"
+            "#2471A3",
+            "#1C2833"
         ],
-        "description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "laptop",
+        "description": "Park Avenue Rayon Blend Men's Full Sleeve Super Slim Medium Blue Formal Three Piece Suit.",
+        "category": "suit",
         "shipping": true,
         "stock": 6,
         "reviews": 23,
@@ -343,7 +343,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-blue-suit-sunglasses-posing-gray_158538-4493.jpg?w=360&t=st=1696261269~exp=1696261869~hmac=b1356f1ff18542c2c13745e80719695bcddee3bf2d67856ae1dbd85cc6482a00",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -352,7 +352,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-blue-suit-posing-gray_158538-4468.jpg",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -361,7 +361,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-blue-suit-posing-gray_158538-4491.jpg?w=360&t=st=1696261371~exp=1696261971~hmac=def9423ee6b7c7c47e6bdca36116d077e15951454b735be981c36b27bae4e041",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -370,7 +370,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/portrait-handsome-fashion-businessman-model-dressed-elegant-blue-suit-with-glasses_158538-4409.jpg",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -379,15 +379,14 @@
     },
     {
         "id": "trendsettersserialnoh",
-        "name": "accessories",
-        "price": 409999,
-        "company": "lenova",
+        "name": "sneaker",
+        "price": 250000,
+        "company": "red tape",
         "colors": [
-            "#000",
-            "#CDD0D0"
+            "#2471A3"
         ],
-        "description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "accessories",
+        "description": "Red Tape Casual Sneaker Shoes for Men | Enhanced Comfort with Cushioned Insole and Slip-Resistant.",
+        "category": "shoes",
         "featured": true,
         "shipping": true,
         "stock": 6,
@@ -398,7 +397,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/3178938/pexels-photo-3178938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/shoes_1203-8153.jpg?w=900&t=st=1696261788~exp=1696262388~hmac=e93edc5ef2d21a43e23f8e70b52b643976c5dfe7a001d5a38f41579e83420d76",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -407,7 +406,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/shoes_1203-8155.jpg?t=st=1696261754~exp=1696262354~hmac=a081f4df1c5df57575df06c1bc637667336cdb59203f32d82eb4d8906a4182e3",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -416,7 +415,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/shoes_1203-8155.jpg?t=st=1696261754~exp=1696262354~hmac=a081f4df1c5df57575df06c1bc637667336cdb59203f32d82eb4d8906a4182e3",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -425,7 +424,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/men-shoes_1203-8388.jpg?w=900&t=st=1696261856~exp=1696262456~hmac=22266a817c9c02d554829e162b7ad69f3481a308d0bdce54b7c00e91e8afdadc",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -434,14 +433,15 @@
     },
     {
         "id": "trendsettersserialnoi",
-        "name": "Iwatch",
-        "price": 109999,
-        "company": "apple",
+        "name": "formal shoes",
+        "price": 299900,
+        "company": "louis stitch",
         "colors": [
-            "#000000"
+            "#AF601A",
+            "#1C2833"
         ],
-        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "watch",
+        "description": "LOUIS STITCH Men's British Tan Derby Formal Shoes Handmade Italian Leather Shoes for Men.",
+        "category": "shoes",
         "shipping": true,
         "stock": 6,
         "reviews": 23,
@@ -451,7 +451,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/brown-leather-shoes_1203-8175.jpg?w=900&t=st=1696262080~exp=1696262680~hmac=6cd4ab5afe80ff6e2664dfa30a2637f0ebc8d6602826773c3ad6db25d7e52f84",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -460,7 +460,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/brown-leather-shoes_1203-8172.jpg?w=900&t=st=1696262134~exp=1696262734~hmac=a0fad455a68a4ffd279e0636986275e2267294efdf7e186e9718bc6882ec345c",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -469,7 +469,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/brown-leather-shoes_1203-8174.jpg?t=st=1696262080~exp=1696262680~hmac=42919ef083767ec1048d4dfeb989d7835fbefbb5b9b6877ecbc210149d8ed00b",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -478,7 +478,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/brown-leather-shoes_1203-8175.jpg?t=st=1696262101~exp=1696262701~hmac=6fb615c2bc7ec8cf19e0c4a5468607b7d23538a59b79726d88157e19948c2e6a",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -487,16 +487,16 @@
     },
     {
         "id": "trendsettersserialnoj",
-        "name": "user need",
-        "company": "apple",
-        "price": 300099,
+        "name": "jeans",
+        "company": "allen cooper",
+        "price": 200000,
         "colors": [
-            "#ff0000",
-            "#22D3EF",
-            "#000000"
+            "#2471A3",
+            "#85929E",
+            "#E67E22"
         ],
-        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "accessories",
+        "description": "Allen Cooper Slimmy Comfortable Mid Rise Denim Jeans for Men.",
+        "category": "pants",
         "stock": 6,
         "reviews": 23,
         "stars": 4.2,
@@ -505,7 +505,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/free-photo/portrait-female-legs-jeans_171337-11954.jpg?w=360&t=st=1696262392~exp=1696262992~hmac=5b3be097cf2a8470faf60767515fbbbec6686460c7812021c48cb36d85bd0607",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -514,7 +514,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/jeans_1203-8093.jpg?w=740&t=st=1696261593~exp=1696262193~hmac=fde6912073d431f6144b5ecf45a6868028c9455f33c9adc71112e648a5ca73c0",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -523,7 +523,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149133969.jpg?w=360&t=st=1696262512~exp=1696263112~hmac=5df10c6faff47da99b52cc3304565c562b1a691358d4b8eb6af3fd4be73273b2",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -532,7 +532,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/premium-photo/woman-legs-black-sneakers_211786-694.jpg?w=360",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -541,15 +541,15 @@
     },
     {
         "id": "trendsettersserialnok",
-        "name": "rolex premium",
-        "company": "rolex",
-        "price": 99999,
+        "name": "tousers",
+        "company": "allen solly",
+        "price": 180000,
         "colors": [
-            "#000000",
-            "#CDD0D0"
+            "#1C2833",
+            "#85929E"
         ],
-        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "watch",
+        "description": "Allen Solly Slimmy Comfortable Mid Rise Denim Jeans for Men.",
+        "category": "pants",
         "stock": 6,
         "reviews": 60,
         "stars": 4.8,
@@ -558,7 +558,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/premium-photo/student-asian-boy-with-long-pants-white-background_891936-927.jpg?w=360",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -567,7 +567,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/free-photo/shopping-textile-black-trousers-white_1203-6504.jpg?w=900&t=st=1696262731~exp=1696263331~hmac=fcb2fe9f8c259860eaf7cc0f8afc89bd2fbac6ce4531598db9bc30d6538a65ce",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -576,7 +576,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/premium-photo/student-asian-boy-with-long-pants-white-background_891936-914.jpg?w=360",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -585,7 +585,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/premium-photo/student-asian-boy-with-long-pants-white-background_891936-917.jpg?w=360",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"
@@ -594,16 +594,15 @@
     },
     {
         "id": "trendsettersserialnol",
-        "name": "galaxy w20",
-        "price": 311999,
-        "company": "samsung",
+        "name": "formal pants",
+        "price": 129900,
+        "company": "red tape",
         "colors": [
-            "#22D3EF",
-            "#ff0000",
-            "#000000"
+            "#F0B27A",
+            "#AED6F1"
         ],
-        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "watch",
+        "description": "Red Tape Cotton Spandex Solid Casual Chinos for Men | Comfortable & Breathable.",
+        "category": "pants",
         "featured": true,
         "stock": 6,
         "reviews": 60,
@@ -613,7 +612,7 @@
                 "id": "randomid1",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/premium-photo/young-confidence-full-length-handsome-young-man-keeping-arms-crossed-smiling-while-standing-against-grey-background_425904-11932.jpg",
                 "filename": "prod-1.png",
                 "size": 1080,
                 "type": "image/png"
@@ -622,7 +621,7 @@
                 "id": "randomid2",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/premium-photo/confident-young-man-full-length-handsome-young-man-looking-away-with-smile-keeping-hands-pockets-while-standing-against-grey-background_425904-11935.jpg",
                 "filename": "prod-2.png",
                 "size": 1080,
                 "type": "image/png"
@@ -631,7 +630,7 @@
                 "id": "randomid3",
                 "width": 1080,
                 "height": 650,
-                "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": " https://img.freepik.com/premium-photo/confident-his-style-full-length-good-looking-young-man-keeping-hand-pocket-looking-camera-while-walking-against-grey-background_425904-11199.jpg?w=360",
                 "filename": "prod-3.png",
                 "size": 1080,
                 "type": "image/png"
@@ -640,7 +639,7 @@
                 "id": "randomid4",
                 "width": 1080,
                 "height": 650,
-                "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "url": "https://img.freepik.com/premium-photo/male-beauty-full-length-handsome-young-man-smiling-keeping-hand-pocket-while-walking-against-grey-background_425904-6561.jpg",
                 "filename": "prod-4.png",
                 "size": 1080,
                 "type": "image/png"

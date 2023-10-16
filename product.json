@@ -1,171 +1,170 @@
 [
     {
         "id": "trendsettersserialnoa",
-        "name": "iphone x",
-        "company": "apple",
-        "price": 6000000,
+        "name": "polo t-shirt",
+        "company": "lacoste",
+        "price": 65000,
         "colors": [
-            "#ff0000",
-            "#000000",
-            "#CDD0D0"
+            "#27AE60",
+            "#F4D03F"
         ],
-        "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "mobile",
+        
+        "image" : "https://img.freepik.com/free-photo/front-view-male-courier-green-uniform-cape-holding-delivery-coffee-cup-pink-background-uniform-delivery-service-job-worker-work-male-company_140725-39224.jpg?w=900&t=st=1696258510~exp=1696259110~hmac=1552e43c38b0a63296433d487092df06040bb7790857fecd29376773e0a541b5",
+        "description": "Lacoste Regular Fit Solid Round Neck T-Shirt for Men | Polyester Fabric | Regular Fit | Causal Wear Tshirts Men.",
+        "category": "t-shirt",
         "featured": true
     },
     {
         "id": "trendsettersserialnob",
-        "name": "samsung s20",
-        "company": "samsung",
-        "price": 5000000,
+        "name": "oversized round neck",
+        "company": "UCB",
+        "price": 99900,
         "colors": [
-            "#000",
-            "#22D3EF"
+            "#438D69",
+            "#F4D03F"
         ],
-        "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "mobile",
+        "image": "https://img.freepik.com/free-photo/portrait-handsome-confident-stylish-hipster-lambersexual-modelman-dressed-size-tshirt-jeans-fashion-male-isolated-studio-posing-near-blue-wall_158538-26344.jpg?w=900&t=st=1696258873~exp=1696259473~hmac=a9f315db16d51d747c189710f1e1dc6b1a1bc5e48af342bd09ca7f1edfa7be6b",
+        "description": "United Colors of Benitton, Men's Mud Green Oversized Half Sleeve Crew Neck Cotton T-Shirt.",
+        "category": "t-shirt",
         "shipping": true
     },
     {
         "id": "trendsettersserialnoc",
-        "name": "Dell Series",
-        "company": "dell",
-        "price": 600000,
+        "name": "oversized round neck",
+        "company": "UCB",
+        "price": 99900,
         "colors": [
-            "#22D3EF",
-            "#CDD0D0"
+            "#F1948A",
+            "#F4D03F",
+            "#DC7633"
         ],
-        "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "laptop"
+        "image": "https://img.freepik.com/free-photo/young-handsome-bearded-man-with-phone_1303-9970.jpg?w=900&t=st=1696260461~exp=1696261061~hmac=d6973dc69dee14bb03df81a8949da6e74cabd5e0aac54a7834c24ba4dcbe707f",
+        "description": "United Colors of Benitton |Nude Pink Color Round Neck Mens and Boys T-Shirt|Solid Half Sleeve|100% Cotton Oversized T-Shirts.",
+        "category": "t-shirt"
     },
     {
         "id": "trendsettersserialnod",
-        "name": "Nokia 420",
-        "company": "nokia",
-        "price": 12599,
+        "name": "formal shirt",
+        "company": "van heusen",
+        "price": 150000,
         "colors": [
-            "#000",
-            "#000000",
-            "#CDD0D0"
+            "#FBFCFC",
+            "#1C2833"
         ],
-        "image": "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "mobile",
+        "image": "https://img.freepik.com/free-photo/portrait-handsome-smiling-hipster-businessman-model-wearing-casual-summer-white-shirt_158538-1003.jpg?w=826&t=st=1696259744~exp=1696260344~hmac=d56e60f9e43d6c812dc0d1f106af65e4e762ad62ca51f9db63f09e468cfa9749",
+        "description": "Van Heusen White Beauty Cotton Full Sleeve Solid Slim Fit Trending White Formal Shirt for Men Pack of 1.",
+        "category": "shirt",
         "shipping": true
     },
     {
         "id": "trendsettersserialnoe",
-        "name": "Mac Pc",
-        "company": "apple",
-        "price": 4000099,
+        "name": "flannel shirt",
+        "company": "alimens & gentle",
+        "price": 189900,
         "colors": [
-            "#000",
-            "#CDD0D0"
+            "#A93226",
+            "#2471A3"
         ],
-        "image": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "computer",
+        "image": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4916.jpg?w=826&t=st=1696259385~exp=1696259985~hmac=f0dd589dd191be11126740364831fa21f76656eff861b8cdcc2ae88254a4fa1d",
+        "description": "Alimens & Gentle, Men's Button Down Regular Fit Long Sleeve Plaid Flannel Casual Shirts.",
+        "category": "shirt",
         "shipping": true
     },
     {
         "id": "trendsettersaserialnof",
-        "name": "Macbook Pro",
-        "company": "apple",
-        "price": 42999,
+        "name": "printed shirt",
+        "company": "cavallo",
+        "price": 250000,
         "colors": [
-            "#000000",
-            "#CDD0D0"
+            "#2471A3",
+            "#1C2833"
         ],
-        "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "laptop",
+        "image": "https://img.freepik.com/free-photo/young-entrepreneur-wearing-shirt-trousers_651396-3032.jpg?w=360&t=st=1696260886~exp=1696261486~hmac=19d68971293e169dbeaff4e2c23e69f94cef0bd72741d3fdee31108af541c3c1",
+        "description": "Cavallo by Linen Club Men's Cotton Linen Turquoise Blue Printed Slim Fit Full Sleeve Formal Shirt.",
+        "category": "shirt",
         "shipping": true
     },
     {
         "id": "trendsettersserialnog",
-        "name": "Asus gseries",
-        "company": "asus",
-        "price": 23999,
+        "name": "3 piece suit",
+        "company": "park avenue",
+        "price": 999900,
         "colors": [
-            "#CDD0D0",
-            "#000"
+            "#2471A3",
+            "#1C2833"
         ],
-        "image": "https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "laptop",
+        "image": "https://img.freepik.com/free-photo/portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-blue-suit-sunglasses-posing-gray_158538-4493.jpg?w=360&t=st=1696261269~exp=1696261869~hmac=b1356f1ff18542c2c13745e80719695bcddee3bf2d67856ae1dbd85cc6482a00",
+        "description": "Park Avenue Rayon Blend Men's Full Sleeve Super Slim Medium Blue Formal Three Piece Suit.",
+        "category": "suit",
         "shipping": true
     },
     {
         "id": "trendsettersserialnoh",
-        "name": "Accessories",
-        "price": 1099999,
-        "company": "lenova",
+        "name": "sneaker",
+        "price": 250000,
+        "company": "red tape",
         "colors": [
-            "#000",
-            "#CDD0D0"
+            "#2471A3"
         ],
-        "image": "https://images.pexels.com/photos/3178938/pexels-photo-3178938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "accessories",
+        "image": "https://img.freepik.com/free-photo/shoes_1203-8153.jpg?w=900&t=st=1696261788~exp=1696262388~hmac=e93edc5ef2d21a43e23f8e70b52b643976c5dfe7a001d5a38f41579e83420d76",
+        "description": "Red Tape Casual Sneaker Shoes for Men | Enhanced Comfort with Cushioned Insole and Slip-Resistant.",
+        "category": "shoes",
         "featured": true,
         "shipping": true
     },
     {
         "id": "trendsettersserialnoi",
-        "name": "Iwatch",
-        "price": 39999,
-        "company": "apple",
+        "name": "formal shoes",
+        "price": 299900,
+        "company": "louis stitch",
         "colors": [
-            "#000000"
+            "#AF601A",
+            "#1C2833"
         ],
-        "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "watch",
+        "image": "https://img.freepik.com/free-photo/brown-leather-shoes_1203-8175.jpg?w=900&t=st=1696262080~exp=1696262680~hmac=6cd4ab5afe80ff6e2664dfa30a2637f0ebc8d6602826773c3ad6db25d7e52f84",
+        "description": "LOUIS STITCH Men's British Tan Derby Formal Shoes Handmade Italian Leather Shoes for Men.",
+        "category": "shoes",
         "shipping": true
     },
     {
         "id": "trendsettersserialnoj",
-        "name": "user need",
-        "company": "apple",
-        "price": 300099,
+        "name": "jeans",
+        "company": "allen cooper",
+        "price": 200000,
         "colors": [
-            "#ff0000",
-            "#22D3EF",
-            "#000000"
+            "#2471A3",
+            "#85929E",
+            "#E67E22"
         ],
-        "image": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "accessories"
+        "image": "https://img.freepik.com/free-photo/portrait-female-legs-jeans_171337-11954.jpg?w=360&t=st=1696262392~exp=1696262992~hmac=5b3be097cf2a8470faf60767515fbbbec6686460c7812021c48cb36d85bd0607",
+        "description": "Allen Cooper Slimmy Comfortable Mid Rise Denim Jeans for Men.",
+        "category": "pants"
     },
     {
         "id": "trendsettersserialnok",
-        "name": "rolex premium",
-        "company": "rolex",
-        "price": 999999,
+        "name": "tousers",
+        "company": "allen solly",
+        "price": 180000,
         "colors": [
-            "#000000",
-            "#CDD0D0"
+            "#1C2833",
+            "#85929E"
         ],
-        "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "watch"
+        "image": "https://img.freepik.com/premium-photo/student-asian-boy-with-long-pants-white-background_891936-927.jpg?w=360",
+        "description": "Allen Solly Slimmy Comfortable Mid Rise Denim Jeans for Men.",
+        "category": "pants"
     },
     {
         "id": "trendsettersserialnol",
-        "name": "galaxy w20",
-        "price": 311999,
-        "company": "samsung",
+        "name": "formal pants",
+        "price": 129900,
+        "company": "red tape",
         "colors": [
-            "#22D3EF",
-            "#ff0000",
-            "#000000"
+            "#F0B27A",
+            "#AED6F1"
         ],
-        "image": "https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "watch",
+        "image": "https://img.freepik.com/premium-photo/young-confidence-full-length-handsome-young-man-keeping-arms-crossed-smiling-while-standing-against-grey-background_425904-11932.jpg",
+        "description": "Red Tape Cotton Spandex Solid Casual Chinos for Men | Comfortable & Breathable.",
+        "category": "pants",
         "featured": true
     }
 ]
